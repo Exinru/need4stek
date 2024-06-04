@@ -10,7 +10,7 @@ Create our own **autonomous car**.
 * **shell script:** enables the connection between our program & the API
 
 ## Usage:
-###### make sure that all the tracks have the following characteristics
+###### make sure that all the tracks have the following characteristics: ODE, Accurate, N m/s according to computer.
 
 First of all, open CoppeliaSim with the following command:
 ```
