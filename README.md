@@ -10,9 +10,11 @@ Create our own **autonomous car**.
 * **shell script:** enables the connection between our program & the API
 
 ## Usage:
+###### make sure that all the tracks have the following characteristics
+
 First of all, open CoppeliaSim with the following command:
 ```
-./CoppeliaSim_Edu_Ubuntu/coppeliaSim
+./CoppeliaSim_Edu_Ubuntu/coppeliaSim.sh
 ```
 Open a scene in the from the scenes folder 
 <img src="./images/coppeliaSim.png" alt="image of the CoppeliaSim program">
